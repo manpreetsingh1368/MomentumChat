@@ -1,0 +1,9 @@
+[package]
+name = "MomentumChat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winit = "0.28"         # For window creation and event loop
+tray-item = "0.6"      # For system tray icon and menu
+iced = "0.10"
